@@ -5,6 +5,11 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Parasut .Net Core Client</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ddeniz/ParasutClient</RepositoryUrl>
+    <RepositoryType>Public</RepositoryType>
+    <PackageTags>parasut,.net core,client</PackageTags>
+    <Authors>Derya Deniz Dogan</Authors>
+    <Company>DDD</Company>
   </PropertyGroup>
 
   <ItemGroup>
